@@ -1,7 +1,7 @@
 ## Google Colab에서 Pytorch 예제 풀어보기
 
 0. 환경설정
-***
+
 리눅스 환경인 Google Colab에 맞게 파이토치 라이브러리를 불러옵니다. 
 <pre>
 <code>
