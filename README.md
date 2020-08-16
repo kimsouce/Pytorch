@@ -1,2 +1,3 @@
-# Pytorch
-파이토치 연습 --Google Colab
+## Google Colab에서 Pytorch 예제 풀어보기
+
+
