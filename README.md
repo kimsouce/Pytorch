@@ -20,7 +20,7 @@ PIL에서 이미지를 임포트할 때 생기는 오류는, pytorch와 pillow�
 </code>
 </pre>
 
-torchvision의 transforms 혹은 dataset이 잘 불러와지지 않을 경우, torchvision을 강제로(?)  오류없이 잘 실행됩니다. 
+torchvision의 transforms 혹은 dataset이 잘 불러와지지 않을 경우, torchvision을 강제로(?) 설치하면 오류없이 잘 실행됩니다. 
 <pre>
 <code>
 !pip install torchvision
